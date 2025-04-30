@@ -60,7 +60,7 @@ section {
 
 
 .botao-inicio {
-    background-color: var(--vermelho);
+    background-color: red;/*cor padrão*/
     border-radius: 30px;
     border: none;
     width: 14em;
