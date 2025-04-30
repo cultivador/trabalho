@@ -24,7 +24,7 @@ section {
 
 
 .nav-link {
-    color: red;/* #FFD700*/;
+    color: Red;/*#FFD700*/;
     font-weight: 600;
 }
 
@@ -60,7 +60,7 @@ section {
 
 
 .botao-inicio {
-    background-color: blue;/* #CB6D43*/
+    background-color: Blue;/*#CB6D43*/
     border-radius: 30px;
     border: none;
     width: 14em;
