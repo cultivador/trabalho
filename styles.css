@@ -60,7 +60,7 @@ section {
 
 
 .botao-inicio {
-    background-color: var(red;/* #CB6D43*/);
+    background-color: #CB6D43;
     border-radius: 30px;
     border: none;
     width: 14em;
@@ -121,7 +121,7 @@ h2 {
 }
 
 .formulario {
-    background-color: var(red;/* #CB6D43*/);
+    background-color: var(--laranja-claro);
     padding: 2rem;
     /* Espaçamento interno dentro do formulário */
     border-radius: 10px;
