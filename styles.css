@@ -14,7 +14,7 @@ body {
 }
 
 header {
-    background-color: Turquoise;/*#ffffff*/
+    background-color: Turquoise;/* #ffffff*/
 }
 
 
@@ -60,7 +60,7 @@ section {
 
 
 .botao-inicio {
-    background-color: Blue;/* #ffffff*/
+    background-color: #CB6D43;
     border-radius: 30px;
     border: none;
     width: 14em;
