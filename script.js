@@ -16,16 +16,16 @@ document.addEventListener('DOMContentLoaded', function(){
      
      const alternaContraste = document.getElementById('alterna-contraste')
  
-     let tamanhoAtualFonte = 2;
+     let tamanhoAtualFonte = 1.5;
  
      aumentaFonteBotao.addEventListener('click', function(){
-         tamanhoAtualFonte += 0.3;
+         tamanhoAtualFonte += 0.2;
          document.body.style.fontSize = `${tamanhoAtualFonte}rem`
  
      })
  
      diminuiFonteBotao.addEventListener('click', function(){
-         tamanhoAtualFonte -= 0.3;
+         tamanhoAtualFonte -= 0.2;
          document.body.style.fontSize = `${tamanhoAtualFonte}rem`
  
      })
