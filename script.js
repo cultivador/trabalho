@@ -16,7 +16,7 @@ document.addEventListener('DOMContentLoaded', function(){
      
      const alternaContraste = document.getElementById('alterna-contraste')
  
-     let tamanhoAtualFonte = 3;
+     let tamanhoAtualFonte = 2;
  
      aumentaFonteBotao.addEventListener('click', function(){
          tamanhoAtualFonte += 0.3;
