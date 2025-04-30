@@ -193,7 +193,7 @@ h2 {
 }
 
 .alto-contraste #galeria {
-    background-color: var(--alto-contraste-fundo);
+    background-color: red;/* #CB6D43*/ var(--alto-contraste-fundo);
 }
 .alto-contraste .fundo-galeria {
     background: none;
