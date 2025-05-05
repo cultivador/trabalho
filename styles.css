@@ -103,7 +103,7 @@ h2 {
 }
 
 #galeria {
-    background-color: Purple;/*#00e0f0*/
+    background-color: blue;/*#00e0f0*/
 
 }
 
@@ -178,7 +178,7 @@ h2 {
 }
 
 .alto-contraste .nav-link{
-    color: #ffffff;
+    color: #000000;
 }
 
 .alto-contraste .botao-inicio,
