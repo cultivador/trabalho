@@ -5,7 +5,7 @@
     --laranja-claro: #FF0000; /* Alterado para vermelho*/
     --alto-contraste-fundo: #000000;
     --alto-contraste-texto: #ffffff;
-    --alto-contraste-link: #09ff00;
+    --alto-contraste-link: #00ff9d;
 }
 
 body {
@@ -99,7 +99,7 @@ h2 {
     font-family: 'Lemon', serif;
     font-size: 2.5em;
     font-style: normal;
-    color: var(--laranja-claro);
+    color: turquoise;/* #00ef0*/
 }
 
 #galeria {
