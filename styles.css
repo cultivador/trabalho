@@ -132,7 +132,7 @@ h2 {
 }
 
 .formulario button {
-    background-color: blue#1503af;
+    background-color: blue;/* #1503af*/
     border: none;
     font-weight: bold;
 }
